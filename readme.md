@@ -26,7 +26,7 @@
 
 ---
 
-### 🎮 Animasi Keren
+### 🎮 aku dan bahasa pemrograman
 <p align="center">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="180" alt="Pacman" />
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" alt="Hacker" />
