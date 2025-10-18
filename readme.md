@@ -14,7 +14,7 @@
 ### 🧠 Tentang Saya
 - 💼 Fokus pada **WordPress Development**
 - 🧩 Tertarik dengan **Cybersecurity & Full-Stack Development**
-- 💌 Email: **damargali400@gmail.com**
+- 💌 Email: **damargalih400@gmail.com**
 - 🌐 Instagram: [@d4m4rlabs](https://www.instagram.com/d4m4rlabs)
 
 ---
