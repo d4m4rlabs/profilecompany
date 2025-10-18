@@ -1,3 +1,4 @@
+<!-- Profil README - Damar Labs -->
 <h1 align="center">👋 Halo, Saya <span style="color:#00BFFF;">Damar</span>!</h1>
 
 <p align="center">
@@ -8,32 +9,24 @@
 
 ### 🧠 Tentang Saya
 - 💼 Fokus pada **WordPress Development**
-- 🧩 Tertarik pada dunia **Cybersecurity & Full-Stack Dev**
+- 🧩 Tertarik dengan **Cybersecurity & Full-Stack Development**
 - 💌 Email: **damargali400@gmail.com**
 - 🌐 Instagram: [@d4m4rlabs](https://www.instagram.com/d4m4rlabs)
+
+---
+
+### 🎮 Animasi Keren
+<p align="center">
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="200" alt="Pacman" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Hacker" />
+</p>
 
 ---
 
 ### 🛠️ Tools & Bahasa Favorit
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,python,linux,vscode,git,github" />
-</p>
-
----
-
-### ⚡ Statistik & Aktivitas
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4m4rlabs&theme=tokyonight&hide_border=true" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4m4rlabs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
-### 🎯 Motto Saya
-> "Belajar, bereksperimen, dan berinovasi — satu baris kode pada satu waktu."
-
-<p align="center">
-  <img src="https://github.com/d4m4rlabs/d4m4rlabs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -45,5 +38,15 @@
 
 ---
 
+### 💫 Motto Saya
+> “Belajar, bereksperimen, dan berinovasi — satu baris kode pada satu waktu.”
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6nV5H0bFz5FVk4Fy/giphy.gif" width="300" alt="Cyber wave" />
+</p>
+
+---
+
 <p align="center">💙 Dibuat dengan semangat oleh <strong>Damar Labs</strong></p>
-    
