@@ -2,11 +2,11 @@
 <h1 align="center">👋 Halo, Saya <span style="color:#00BFFF;">Damar</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya!;Developer+WordPress;Cybersecurity+Enthusiast;Mari+Bangun+Sesuatu+yang+Keren+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya!;Developer+WordPress;Cybersecurity+Enthusiast;Mari+Bangun+Sesuatu+yang+Keren+🔥" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
+  <img src="https://i.pinimg.com/originals/3b/0d/1e/3b0d1eb4d1c62c6cf38d66a5ce1d8434.gif" width="400" alt="Coding animation" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 ### 💬 Quotes Hari Ini
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=500&lines=Keep+Learning+💡;Stay+Creative+🔥;And+Build+Your+Own+Future+🚀" alt="Typing SVG 2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=500&lines=Keep+Learning+💡;Stay+Creative+🔥;And+Build+Your+Own+Future+🚀" alt="Typing SVG 2" />
 </p>
 
 <p align="center">
