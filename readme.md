@@ -57,4 +57,4 @@
 
 ---
 
-<p align="center">💙 Dibuat dengan semangat oleh <strong>Damar pencinta wordpress</strong></p>
+<p align="center">💙 Dibuat dengan semangat oleh <strong>Damar pencinta wordpress💙</strong></p>
